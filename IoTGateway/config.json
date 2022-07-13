@@ -1,0 +1,9 @@
+{
+  "AppConfig": {
+    "Database": {
+      "Host": "localhost",
+      "Port": 27017,
+      "DatabaseName": "IoTGateway"
+    }
+  }
+}
